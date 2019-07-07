@@ -1,0 +1,173 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (python_Implementation)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\MUTHU KALA\PycharmProjects\python_Implementation\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/python_Implementation/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/python_Implementation/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/python_Implementation/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/python_Implementation/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/384348800" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/python_Implementation" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\MUTHU KALA\AppData\Local\Programs\Python\Python37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-957605258" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Student_Management_System)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\MUTHU KALA\Desktop\Student_Management_System\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Student_Management_System/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Student_Management_System/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Desktop/Student_Management_System/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Student_Management_System/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1108223738" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Student_Management_System" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (project1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="C:\Users\MUTHU KALA\project1\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/project1/Lib" type="simple" />
+            <root url="file://$USER_HOME$/project1/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/project1" type="simple" />
+            <root url="file://$USER_HOME$/project1/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1270147136" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Project" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Student_Management_System) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="D:\durai\Project\Student_Management_System\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://D:/durai/Project/Student_Management_System/venv" type="simple" />
+            <root url="file://D:/durai/Project/Student_Management_System/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1315308674" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/durai/Project/Student_Management_System" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (StudentManagementSystem)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="D:\durai\Project\StudentManagementSystem\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://D:/durai/Project/StudentManagementSystem/venv" type="simple" />
+            <root url="file://D:/durai/Project/StudentManagementSystem/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/durai/Project/StudentManagementSystem/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/durai/Project/StudentManagementSystem/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-832942776" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/durai/Project/StudentManagementSystem" />
+    </jdk>
+  </component>
+</application>
